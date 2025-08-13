@@ -1,0 +1,2 @@
+# SC_WD_4
+FuncLexa~TO-DO-WEB-APP A clean and interactive To-Do web app built using HTML, CSS, and JavaScript.  Features: ✔ Add, Edit, Delete Tasks ✔ Mark as Completed ✔ Set Due Dates & Times ✔ Filter Tasks (All/Pending/Completed) ✔ LocalStorage Persistence ✔ Smooth Animations & Blue Theme ✔ Fully Responsive    Perfect for boosting productivity while keeping it stylish! 💙  Feel free to explore, fork, and improve!
